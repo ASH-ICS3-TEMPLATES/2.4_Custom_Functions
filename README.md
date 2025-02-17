@@ -1,6 +1,6 @@
 # 2.4 - Custom Functions
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 **If you missed the live demonstration in class, read below. Otherwise you can go straight to [your task](./YOUR_TASK.md).**
 
@@ -105,7 +105,4 @@ We can test or use our function by going to the console and running `circle_area
 ---
 
 **Now go check out [your task](./YOUR_TASK.md).**
-
-<br>
-<br>
-🐿️
+🐧
