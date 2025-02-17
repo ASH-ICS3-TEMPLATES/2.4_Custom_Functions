@@ -1,6 +1,6 @@
 ### 2.4 - Custom Functions
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 # 📝 Your Task:
 
@@ -68,6 +68,4 @@ You now have a very powerful set of skills:
 Utilize this playground to continue to play!
 
 <br>
-<br>
-
-🐿️
+🐧
